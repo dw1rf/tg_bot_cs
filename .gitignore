@@ -1,0 +1,26 @@
+﻿# IDE
+.vs/
+.idea/
+.vscode/
+
+# Python/venv
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+*.env
+*.env.*
+
+# Build/logs
+build/
+dist/
+*.log
